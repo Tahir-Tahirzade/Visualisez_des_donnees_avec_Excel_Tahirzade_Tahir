@@ -37,7 +37,9 @@ Primero Bank Dataset: [Link to the dataset]
 Analysis Report Template: [Link to the template]
 Visualization Guide: [Link to the guide]
 Presentation Template: [Link to the template]
-Additional Info:
+
+
+## 1)Presentation:Additional Info:
 
 Client: Primero Bank
 Stakeholder: Paola, Marketing Director
@@ -45,15 +47,9 @@ Deliverables: Analysis report, presentation
 Timeline: 2 weeks
 
 
-Success Criteria:
+## 2)Presentation:Success Criteria:
 
 Analysis report identifies key reasons for customer churn.
 Visualizations are clear, concise, and persuasive.
 Presentation is well-delivered and engaging.
-Improvements:
 
-Markdown formatting: Replaced bold text with headers and lists for better readability on GitHub.
-Conciseness: Shortened sentences and descriptions for clarity.
-Action verbs: Used action verbs to add engagement.
-Targeted tone: Adapted tone for a technical audience.
-Emojis: Added optional emojis for a touch of personality (use cautiously).
