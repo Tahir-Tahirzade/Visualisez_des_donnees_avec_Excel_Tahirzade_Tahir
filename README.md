@@ -3,7 +3,7 @@
 
   ## A)Project Overview:
 
-#### This project is a simulation of a real-world Business Intelligence (BI) consultant role at ESN Data. My mission was to help Primero Bank understand and address customer churn, a major challenge affecting their business.
+ <FONT size="26pt">  This project is a simulation of a real-world Business Intelligence (BI) consultant role at ESN Data. My mission was to help Primero Bank understand and address customer churn, a major challenge affecting their business.</FONT> 
 
   ## B)Steps:
 
