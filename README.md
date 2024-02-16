@@ -33,11 +33,10 @@
 
   ## C)Resources:
 
-<li>Primero Bank Dataset: [Link to the dataset]
-<li>Analysis Report Template: [Link to the template]
-<li>Visualization Guide: [Link to the guide]
-<li>Presentation Template: [Link to the template]
-
+<li>Primero Bank Dataset:
+<li>Analysis Report Template: 
+<li>Visualization Guide: 
+<li>Presentation Template: 
 
 ### 1)Presentation:Additional Info:
 
