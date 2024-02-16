@@ -47,7 +47,7 @@ Deliverables: Analysis report, presentation
 Timeline: 2 weeks
 
 
-## 2)Presentation:Success Criteria:
+### 2)Presentation:Success Criteria:
 
 Analysis report identifies key reasons for customer churn.
 Visualizations are clear, concise, and persuasive.
