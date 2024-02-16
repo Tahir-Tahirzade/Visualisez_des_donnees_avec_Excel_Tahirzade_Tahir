@@ -50,3 +50,18 @@
 
 <li>Analysis report identifies key reasons for customer churn.
 
+
+  ## SKILLSS
+
+    # HARDSKILLS
+      <li>EXCEL
+    # SOFTSKILLS
+
+
+# REFERENCES
+<li>
+<li>
+<li>
+
+    <li>Presentation 
+    
