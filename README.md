@@ -9,47 +9,45 @@
 
 ### 1)Data Analysis:
 
--Dived into the provided Primero Bank CRM dataset.
--Identified common traits among customers who have churned.
--Uncovered at least 5 potential reasons for customer churn.
--Found current customers at risk of churning.
--Documented my  findings in the provided analysis report.
+<li>Dived into the provided Primero Bank CRM dataset.
+<li>Identified common traits among customers who have churned.
+<li>Uncovered at least 5 potential reasons for customer churn.
+<li>Found current customers at risk of churning.
+<li>Documented my  findings in the provided analysis report.
 
 
 ### 2)Data Visualization:
 
--Used the visualization guide to choose the best ways to present  data.
--Created clear and impactful visualizations for stakeholders to easily understand.
--Crafted a compelling presentation for Paola, Marketing Director at Primero Bank, using the provided template.
+<li>Used the visualization guide to choose the best ways to present  data.
+<li>Created clear and impactful visualizations for stakeholders to easily understand.
+<li>Crafted a compelling presentation for Paola, Marketing Director at Primero Bank, using the provided template.
 
 
 ### 3)Presentation:
 
-Practiced my  presentation for clarity and conciseness.
-Be prepared to answer questions from Paola.
-Communicated professionally and actively listen during the presentation.
+<li>Practiced my  presentation for clarity and conciseness.
+<li>Be prepared to answer questions from Paola.
+<li>Communicated professionally and actively listen during the presentation.
 
 
 
   ## C)Resources:
 
-Primero Bank Dataset: [Link to the dataset]
-Analysis Report Template: [Link to the template]
-Visualization Guide: [Link to the guide]
-Presentation Template: [Link to the template]
+<li>Primero Bank Dataset: [Link to the dataset]
+<li>Analysis Report Template: [Link to the template]
+<li>Visualization Guide: [Link to the guide]
+<li>Presentation Template: [Link to the template]
 
 
 ### 1)Presentation:Additional Info:
 
-Client: Primero Bank
-Stakeholder: Paola, Marketing Director
-Deliverables: Analysis report, presentation
-Timeline: 2 weeks
+<li>Client: Primero Bank
+<li>Stakeholder: Paola, Marketing Director
+<li>Deliverables: Analysis report, presentation
+<li>Timeline: 2 weeks
 
 
 ### 2)Presentation:Success Criteria:
 
-Analysis report identifies key reasons for customer churn.
-Visualizations are clear, concise, and persuasive.
-Presentation is well-delivered and engaging.
+<li>Analysis report identifies key reasons for customer churn.
 
