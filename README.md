@@ -1,13 +1,13 @@
 # Visualize data with excel : Saving Customers, Saving Businesses: A Data-Driven Approach to Churn Reduction
 
 
-  ## A)Project Overview:
+  ## A.Project Overview:
 
  <FONT size="26pt">  This project is a simulation of a real-world Business Intelligence (BI) consultant role at ESN Data. My mission was to help Primero Bank understand and address customer churn, a major challenge affecting their business.</FONT> 
 
-  ## B)Steps:
+  ## B.Steps:
 
-### 1)Data Analysis:
+### 1.Data Analysis:
 
 <li>Dived into the provided Primero Bank CRM dataset.
 <li>Identified common traits among customers who have churned.
@@ -16,14 +16,14 @@
 <li>Documented my  findings in the provided analysis report.
 
 
-### 2)Data Visualization:
+### 2.Data Visualization:
 
 <li>Used the visualization guide to choose the best ways to present  data.
 <li>Created clear and impactful visualizations for stakeholders to easily understand.
 <li>Crafted a compelling presentation for Paola, Marketing Director at Primero Bank, using the provided template.
 
 
-### 3)Presentation:
+### 3.Presentation:
 
 <li>Practiced my  presentation for clarity and conciseness.
 <li>Be prepared to answer questions from Paola.
@@ -31,14 +31,14 @@
 
 
 
-  ## C)Resources:
+  ## C.Resources:
 
 <li>Primero Bank Dataset:
 <li>Analysis Report Template: 
 <li>Visualization Guide: 
 <li>Presentation Template: 
 
-### 1)Presentation:Additional Info:
+### 1.Presentation:Additional Info:
 
 <li>Client: Primero Bank
 <li>Stakeholder: Paola, Marketing Director
@@ -46,7 +46,7 @@
 <li>Timeline: 2 weeks
 
 
-### 2)Presentation:Success Criteria:
+### 2.Presentation:Success Criteria:
 
 <li>Analysis report identifies key reasons for customer churn.
 
