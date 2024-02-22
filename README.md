@@ -38,18 +38,6 @@
 <li>Visualization Guide: 
 <li>Presentation Template: 
 
-### 1.Presentation: Additional Info:
-
-<li>Client: Primero Bank
-<li>Stakeholder: Paola, Marketing Director
-<li>Deliverables: Analysis report, presentation
-<li>Timeline: 2 weeks
-
-
-### 2.Presentation: Success Criteria:
-
-<li>Analysis report identifies key reasons for customer churn.
-
 
   ## SKILLSS
 
