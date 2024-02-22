@@ -38,7 +38,7 @@
 <li>Visualization Guide: 
 <li>Presentation Template: 
 
-### 1.Presentation:Additional Info:
+### 1.Presentation: Additional Info:
 
 <li>Client: Primero Bank
 <li>Stakeholder: Paola, Marketing Director
@@ -46,22 +46,27 @@
 <li>Timeline: 2 weeks
 
 
-### 2.Presentation:Success Criteria:
+### 2.Presentation: Success Criteria:
 
 <li>Analysis report identifies key reasons for customer churn.
 
 
   ## SKILLSS
 
-    # HARDSKILLS
-      <li>EXCEL
-    # SOFTSKILLS
+  #### HARD SKILLS
+  <li>Excel
+  <li>Power Point
 
+  #### SOFT SKILLS
+ <li>Communication and Reporting
+ <li>Improved User Experience
+ <li>User Understanding: 
 
-# REFERENCES
-<li>
-<li>
-<li>
+   
+   # REFERENCES
+<li>Maîtrisez les fondamentaux d'Excel:Openclasrooms
+<li>Développez votre culture des données:Openclasrooms
+<li>Initiez-vous à la gouvernance des données:Openclasrooms
 
-    <li>Presentation 
+  
     
